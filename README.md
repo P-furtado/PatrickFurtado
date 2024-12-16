@@ -1,4 +1,7 @@
 <h1>Hi, I'm Patrick, an <a href="www.linkedin.com/in/patrick-furtado-94796233b">IT Professional</a>☺</h1>
+<h2> 📄 Certifications:</h2>
+Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/linked_in?t=solgtv)
+
 
 <h2> ⭐ Featured Projects:</h2>
 
