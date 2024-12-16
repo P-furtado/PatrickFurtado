@@ -3,7 +3,7 @@
 <h2> ⭐ Featured Projects:</h2>
 
 
-- [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
+- [Active Directory: Practical Scenario Simulation](https://github.com/P-furtado/ad-scenario-sim)
 - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
 - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/kirkgacias/spiceworks-knowledge-base)
 - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
