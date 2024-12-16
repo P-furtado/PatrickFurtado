@@ -11,22 +11,17 @@
 
 - <b>Active Directory</b>
 
-  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
-  - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
-  - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
+  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/P-furtado/ad-azuresetup)
+  - [Active Directory Deployment and Configuration](https://github.com/P-furtado/ad_deployment_Config)
+  - [Active Directory: User Generation](https://github.com/P-furtado/AD-USER-GEN)
 
 <b></b>
 <b></b>
 
-- <b>Jira Service Management</b>
-  - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
-  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/kirkgacias/jira-configuration)
 
-<b></b>
-<b></b>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/P-furtado/OSticket-Prereqs)
  
 
 <h2>🤳Connect with me:</h2>
