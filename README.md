@@ -17,7 +17,7 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
   - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/P-furtado/ad-azuresetup)
   - [Active Directory Deployment and Configuration](https://github.com/P-furtado/ad_deployment_Config)
   - [Active Directory: User Generation](https://github.com/P-furtado/AD-USER-GEN)
-  - [Windows Sever: A Home Lab Guide to Active Directory, GPO, and Network File Sharing using VM Workstation PRO](https://github.com/P-furtado/AD-USER-GEN])
+  - [Windows Sever: A Home Lab Guide to Active Directory, GPO, and Network File Sharing using VM Workstation PRO](https://github.com/P-furtado/AD-USER-GEN)
 
 <b></b>
 <b></b>
