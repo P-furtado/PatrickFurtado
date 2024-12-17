@@ -31,7 +31,7 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
   - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
+  - [VPN Setup in Virtual Machine ](https://github.com/P-furtado/VPN-Setup)
 
 <h2>🤳Connect with me:</h2>
 
