@@ -25,7 +25,7 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/P-furtado/OSticket-Prereqs)
- 
+- [osTicket: Ticket Resolution and Troubleshooting](https://github.com/P-furtado/OSticket-TicketReso) 
 
 <h2>🤳Connect with me:</h2>
 
