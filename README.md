@@ -27,7 +27,7 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
   - [osTicket: Prerequisites and Installation](https://github.com/P-furtado/OSticket-Prereqs)
   - [osTicket: Ticket Resolution and Troubleshooting](https://github.com/P-furtado/OSticket-TicketReso)
 
-- - <b>Microsoft Azure(updated more detail)</b>
+- - <b>Microsoft Azure(updated more/detail)</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
 - <b>Virtual Private Network</b>
