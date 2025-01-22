@@ -8,6 +8,7 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
 
 - [Active Directory: Practical Scenario Simulation](https://github.com/P-furtado/ad-scenario-sim)
 - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/P-furtado/OSticket-TicketReso)
+- [Jira Service Management: Configuration, Workflows and Automation](https://github.com/P-furtado/Jira-Config)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -27,8 +28,12 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/P-furtado/OSticket-Prereqs)
   - [osTicket: Ticket Resolution and Troubleshooting](https://github.com/P-furtado/OSticket-TicketReso)
+ 
+ - <b> Jira Service Management</b> 
+   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/P-furtado/Jira-Tickets)
+   - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/P-furtado/Jira-Config)
 
-- - <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/P-furtado/config-Ad-on-premises)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/P-furtado/NSGs-azure)
 - <b>Virtual Private Network</b>
