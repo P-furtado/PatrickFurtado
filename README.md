@@ -1,7 +1,7 @@
 <h1>Hi, I'm Patrick, an <a href="www.linkedin.com/in/patrick-furtado-94796233b">IT Professional</a>☺</h1>
 <h2> 📄 Certifications:</h2>
 Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/linked_in?t=solgtv)
-
+Comptia Network+:
 
 <h2> ⭐ Featured Projects:</h2>
 
@@ -38,6 +38,15 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/P-furtado/NSGs-azure)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/P-furtado/VPN-Setup)
+
+
+## Homelab Networking Labs
+
+- [Basic LAN Setup Homelab](https://github.com/P-furtado/basic-lan-setup-homelab)  
+- [Basic Switch Configuration Homelab](https://github.com/P-furtado/basic-switch-config-homelab)  
+- [Basic VLAN Setup Homelab](https://github.com/P-furtado/basic-vlan-setup-homelab)  
+- [DHCP with Inter-VLAN Routing Homelab](https://github.com/P-furtado/dhcp-intervlan-routing-homelab)  
+- [Switch Config Steps](https://github.com/P-furtado/switch-config-steps)  
 
 <h2>🤳Connect with me:</h2>
 
