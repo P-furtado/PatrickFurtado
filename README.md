@@ -43,10 +43,10 @@ Comptia Network+:
 
 ## Networking Labs
 
-- [Basic LAN Setup Homelab](https://github.com/P-furtado/basic-lan-setup-homelab)  
-- [Basic Switch Configuration Homelab](https://github.com/P-furtado/basic-switch-config-homelab)  
-- [Basic VLAN Setup Homelab](https://github.com/P-furtado/basic-vlan-setup-homelab)  
-- [DHCP with Inter-VLAN Routing Homelab](https://github.com/P-furtado/dhcp-intervlan-routing-homelab)  
+- [Basic Switch Configuration Homelab](https://github.com/P-furtado/basic-switch-config-homelab) 
+- [Basic LAN Setup Homelab](https://github.com/P-furtado/basic-lan-setup-homelab)   
+- [DHCP with Inter-VLAN Routing Homelab](https://github.com/P-furtado/dhcp-intervlan-routing-homelab)
+- [Basic VLAN Setup Homelab](https://github.com/P-furtado/basic-vlan-setup-homelab)
 - [Switch Config Steps](https://github.com/P-furtado/switch-config-steps)  
 
 <h2>🤳Connect with me:</h2>
