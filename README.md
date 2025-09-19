@@ -2,7 +2,7 @@
 <h2> 📄 Certifications:</h2>
 Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/linked_in?t=solgtv)
 
-Comptia Network+:
+Comptia Network+:https://www.credly.com/badges/b7228ca6-d469-434a-8332-03f3daaa59eb/public_url
 
 <h2> ⭐ Featured Projects:</h2>
 
