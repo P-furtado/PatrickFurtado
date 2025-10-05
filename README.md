@@ -6,7 +6,7 @@ Comptia Network+:https://www.credly.com/badges/b7228ca6-d469-434a-8332-03f3daaa5
 
 <h2> ⭐ Featured Projects:</h2>
 
-
+- [SPEC-2025 Homelab (Cisco ISR4331 + Catalyst 3560/2960)](https://github.com/P-furtado/SPEC-2-Homelab-4300-Isolated-Router-Catalyst-3560-2960-)
 - [Active Directory: Practical Scenario Simulation](https://github.com/P-furtado/ad-scenario-sim)
 - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/P-furtado/OSticket-TicketReso)
 - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/P-furtado/Jira-Config)
