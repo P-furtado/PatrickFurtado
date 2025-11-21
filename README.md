@@ -4,6 +4,8 @@ Comptia A+:https://www.credly.com/badges/57b4a927-ee6c-4517-b8a9-4ef2711892f7/li
 
 Comptia Network+:https://www.credly.com/badges/b7228ca6-d469-434a-8332-03f3daaa59eb/public_url
 
+CCNA:
+
 <h2> ⭐ Featured Projects:</h2>
 
 - [SPEC-2025 Homelab (Cisco ISR4331 + Catalyst 3560/2960)](https://github.com/P-furtado/SPEC-2-Homelab-4300-Isolated-Router-Catalyst-3560-2960-)
